@@ -1,6 +1,6 @@
 # QuizApp Microservices
 
-A distributed quiz application built with Spring Boot and Spring Cloud that follows a microservices architecture.
+A distrubuted quiz application converted from previous monolithic quizapp application built with Spring Boot and Spring Cloud that follows a microservices architechture.
 
 ## Architecture Overview
 
